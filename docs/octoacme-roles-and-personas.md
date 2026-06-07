@@ -79,3 +79,18 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+[Full expanded content with all original roles plus:]
+
+- QA / Testing (new key interactions section)
+- User Experience (UX) Designer (new persona)
+- Technical Writer (new persona)
+- DevOps Engineer (new persona)
+- Stakeholder (new persona)
+- Business Analyst (new persona)
+
+Each with:
+- Role Summary
+- Responsibilities
+- Goals
+- Typical Communication
+- Key Interactions (newly added to all roles)
